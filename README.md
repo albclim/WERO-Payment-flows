@@ -1,2 +1,3 @@
 # WERO-Payment-flows
-Incoming and Outgoing WERO payment flows with Mermaid
+Incoming and Outgoing WERO payment flows created with Lovable AI
+
